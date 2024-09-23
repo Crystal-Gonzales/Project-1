@@ -8,12 +8,11 @@ popular colors based on consumer ratings and reviews.
 
 This data analysis project delves into the fascinating world of Stanley tumblers and their rising popularity influenced by social media trends. By harnessing the power of Google Trends and scrutinizing relevant articles to construct a timeline, this study examines how viral moments have spiked consumer interest in these products, as evidenced through crafted line graphs and histograms pinpointing these pivotal events.
 
-Furthermore, the research explores geographical preferences within the United States using Google Trends data to compare searches for Stanley tumblers against competitors like Yeti and Hydro Flask. Visual representations include informative pie charts and maps showcase regional favoratism and regional outliers across the US.
-detailed boxplot graphs highlighting regional outliers. and chloropleth maps that showcase regional favoritism across the US.
+Furthermore, the research explores geographical preferences within the United States using Google Trends data to compare searches for Stanley tumblers against competitors like Yeti and Hydroflask. Visual representations include informative pie charts and maps showcase regional favoratism and regional outliers across the US, detailed boxplot graphs highlighting regional outliers, and chloropleth maps that showcase regional favoritism across the US.
 
 Temporal search patterns are also dissected through comparative line graphs and piecharts over five years and during key holiday periods to understand when these tumblers become a hot topic among consumers.
 
-Lastly, this project tackles color preference—cream, black, or pink—based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
+Lastly, this project tackles color preference—cream, charcoal, or pink—based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
 
 ## Conclusion 
 (conclusions and recommendations)
@@ -22,7 +21,6 @@ Lastly, this project tackles color preference—cream, black, or pink—based on
 (This would contain next steps and continuation of the project)
 
 ## Techniologies and Libraries Used
-
 * Python
 * Pandas
 * Git
