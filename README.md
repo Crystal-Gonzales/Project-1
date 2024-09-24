@@ -12,13 +12,20 @@ Furthermore, the research explores geographical preferences within the United St
 
 Temporal search patterns are also dissected through comparative line graphs and piecharts over five years and during key holiday periods to understand when these tumblers become a hot topic among consumers.
 
-Lastly, this project tackles color preference—cream, charcoal, or pink—based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
+Lastly, this project tackles color preference—cream, charcoal, or Rose Quartz—based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
 
 ## Conclusion 
-(conclusions and recommendations)
+By answering the key questions around **social media influence, search trends, regional popularity, and color preferences**, we have identified several strategic opportunities for Stanley:
+
+- **Leverage social media** to capitalize on viral trends and influencer partnerships.
+- **Tailor marketing campaigns** to peak search periods and regions with the highest interest.
+- **Focus on the most popular colors** based on ratings to meet customer demand.
+
+In conclusion, by implementing these recommendations, Stanley can **enhance its marketing strategies, optimize product offerings, and ultimately drive sales growth** in a highly competitive market.
 
 ## Project Roadmap
-(This would contain next steps and continuation of the project)
+* Advanced NLP Techniques: Explore more sophisticated NLP methods to enhance the accuracy of sentiment analysis.
+* Predictive Analytics: Develop models to predict future customer sentiment based on current trends.
 
 ## Techniologies and Libraries Used
 * Python
