@@ -12,7 +12,7 @@ Furthermore, the research explores geographical preferences within the United St
 
 Temporal search patterns are also dissected through comparative line graphs and piecharts over five years and during key holiday periods to understand when these tumblers become a hot topic among consumers.
 
-Lastly, this project tackles color preference—cream, charcoal, or Rose Quartz—based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
+Lastly, this project tackles color preference— Cream, Charcoal, or Rose Quartz —based on Amazon ratings and reviews. By extracting specific reviews for trend analysis, this study provides insights into color popularity with supporting pie charts.
 
 ## Conclusion 
 By answering the key questions around **social media influence, search trends, regional popularity, and color preferences**, we have identified several strategic opportunities for Stanley:
